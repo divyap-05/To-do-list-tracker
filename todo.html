@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+    <meta name="description"content="A simple Task tracker built using HTML,CSS and JavaScript.">
+<title>
+    Task Tracker &hearts;
+</title>
+<link rel="stylesheet" href="todo.css">
+<script src="todo.js"></script>
+</head>
+<body class="container" >
+    
+    <h1 > &hearts; TASK TRACKER &hearts;</h1>
+    <form >
+        <p>Your Ultimate Task Tracker  &#128221;</p>
+       <div class="date">
+        <label class="left" > Date: </label>
+        <input  id="dates" type="date">
+    </div>
+        <label class="start">Start adding tasks! &#128393;</label>
+        <input  id="add" type="text" placeholder="add task" class="addtask" >
+        <div class="buttons">
+
+   
+<button type="button" onclick="addTask()">Add Task</button>
+<button onclick=viewTask() type="button">View Tasks</button>
+
+     </div>
+     <p id="success"></p>
+     <p id="pending" style="display:none;">Pending Tasks are:</p>
+     <ol id="list"></ol>
+    </form>
+</body>
