@@ -16,7 +16,7 @@ console.log({task:task,date:date});
 tasks.push({task:task,date:date});
 
 let success=document.getElementById("success");
-success.textContent="Task added successfully \u2705;";
+success.textContent="Task added successfully \u2705";
 setTimeout(function(){success.textContent="";}, 1000);
 addInput.value="";
 addDate.value="";
