@@ -1,4 +1,4 @@
-# 💗 Task Tracker
+#  Task Tracker
 
 A simple and interactive **Task Tracker** built using **HTML, CSS, and JavaScript**.
 
@@ -8,17 +8,23 @@ The application allows users to add tasks along with their dates, view their add
 
 ### 🏠 Main Interface
 
-![Task Tracker Main Interface](screenshots/home1.png)
 
-![Task Tracker Interface](screenshots/home2.png)
+
+![Task Tracker Interface](screenshots/home.png)
 
 ### ➕ Adding a Task
 
-![Task Added Successfully](screenshots/home1.png)
+![Task Added Successfully](screenshots/add1.png)
+![Task Added Successfully](screenshots/add2.png)
 
-![Task Added Successfully](screenshots/home2.png)
+### Viewing a Task
+
+![Task Added Successfully](screenshots/view.png)
+
 
 ### 🗑️ Removing a Task
+
+![Task Removal](screenshots/task.png)
 
 ![Task Removal](screenshots/task1.png)
 

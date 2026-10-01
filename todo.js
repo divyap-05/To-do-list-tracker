@@ -1,4 +1,4 @@
-console.log('divya');
+
 let tasks=[];
 let dates=[];
 function addTask()
