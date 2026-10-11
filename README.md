@@ -126,7 +126,7 @@ Some possible improvements for future versions are:
 - Add a task counter
 - Improve accessibility
 
-## 👩‍💻 Author
+##  Author
 
 **Divya Pai**
 
