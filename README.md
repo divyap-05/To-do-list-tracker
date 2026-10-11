@@ -4,15 +4,15 @@ A simple and interactive **Task Tracker** built using **HTML, CSS, and JavaScrip
 
 The application allows users to add tasks along with their dates, view their added tasks, and delete tasks when they are no longer needed.
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Main Interface
+###  Main Interface
 
 
 
 ![Task Tracker Interface](screenshots/home.png)
 
-### ➕ Adding a Task
+###  Adding a Task
 
 ![Task Added Successfully](screenshots/add1.png)
 ![Task Added Successfully](screenshots/add2.png)
@@ -22,7 +22,7 @@ The application allows users to add tasks along with their dates, view their add
 ![Task Added Successfully](screenshots/view.png)
 
 
-### 🗑️ Removing a Task
+###  Removing a Task
 
 ![Task Removal](screenshots/task.png)
 
@@ -30,7 +30,7 @@ The application allows users to add tasks along with their dates, view their add
 
 ![Task Removal](screenshots/task2.png)
 
-## ✨ Features
+##  Features
 
 - Add a task with a specific date
 - Input validation for task and date
@@ -47,7 +47,7 @@ The application allows users to add tasks along with their dates, view their add
 - **CSS3** - Styling, layout, background, and hover effects
 - **JavaScript** - Task management, validation, DOM manipulation, and event handling
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 To-do-list-tracker/
@@ -65,7 +65,7 @@ To-do-list-tracker/
     └── task2.png
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -78,7 +78,7 @@ git clone https://github.com/divyap-05/To-do-list-tracker.git
 
 No additional installation or dependencies are required.
 
-## 🧠 How It Works
+##  How It Works
 
 The application uses JavaScript to maintain the list of tasks during the current browser session.
 
@@ -94,7 +94,7 @@ When the user selects **View Tasks**, the stored tasks are displayed along with 
 
 When the **Delete** button is clicked, the selected task is removed from the array and from the displayed task list.
 
-## 📚 Concepts Practiced
+##  Concepts Practiced
 
 This project helped me practice:
 
@@ -113,7 +113,7 @@ This project helped me practice:
 - Array methods such as `push()` and `splice()`
 - Basic input validation
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Some possible improvements for future versions are:
 
