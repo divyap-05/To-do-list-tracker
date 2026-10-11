@@ -41,7 +41,7 @@ The application allows users to add tasks along with their dates, view their add
 - Responsive viewport configuration for different screen sizes
 - Interactive button and input hover effects
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5** - Structure of the application
 - **CSS3** - Styling, layout, background, and hover effects
